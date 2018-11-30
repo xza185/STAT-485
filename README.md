@@ -1,1 +1,1 @@
-# data
+# STAT 485 Course Project
